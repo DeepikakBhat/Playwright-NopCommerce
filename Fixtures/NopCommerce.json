@@ -1,0 +1,22 @@
+{
+
+   
+    "email": "mayav253@gmail.com",
+    "password" : "Diana@#123",
+    "gender" : "female",
+    "firstname" : "diana",
+    "lastname" : "gomez",
+    "birthdate" : "26",
+    "birthmonth" : "11",
+    "birthyear" : "1988",
+    "companyname" : "sakshath",
+    "country" : "United States",
+    "state" : "Alabama",
+    "city" : "bangalore",
+    "address1" : "street of love",
+    "address2" : "strret of hate",
+    "zipcode" : "560078",
+    "phonenumber" : "9988999989"
+    
+
+}
